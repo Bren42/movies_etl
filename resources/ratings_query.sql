@@ -1,0 +1,1 @@
+select count(*) as "number of rows" from ratings
